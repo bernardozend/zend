@@ -2,8 +2,7 @@
 
 int main(){
     
- 
-    printf("Ola mundo.");
+    printf("GDG Petropolis.");
     
     return 0;
 }
